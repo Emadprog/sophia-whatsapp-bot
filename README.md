@@ -16,3 +16,11 @@
 1. ثبّت المكتبات المطلوبة:
    ```bash
    pip install -r requirements.txt
+
+   ---
+
+## 👨‍💻 المطور
+**Emad Hamdy**  
+📧 engineer_mys@hotmail.com  
+🌐 GitHub: [Emadprog](https://github.com/Emadprog)
+
